@@ -1,0 +1,2 @@
+rootProject.name='Arc_bus'
+include ':app',':yn.bus'
